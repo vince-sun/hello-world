@@ -39,7 +39,7 @@ public class GitDemo {
      *  the function will return 4321
      *****/
     public double reverseNumber(double num){
-        newNumber
+        
         double newNumber = 0;
         
         while( num != 0 ) {
