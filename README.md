@@ -1,3 +1,3 @@
 # hello-world
-# CSE 360 Hello World git demo
-# Vincent Sun
+CSE 360 Hello World git demo\
+Vincent Sun
